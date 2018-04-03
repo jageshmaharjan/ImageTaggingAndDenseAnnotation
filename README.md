@@ -7,9 +7,7 @@ The project cites to the following papers on paper directory.
 And cites following repo
 1) SSD: Single-Shot MultiBox Detector
 2) Mask R-CNN for Object Detection and Segmentation 
-
-  ..* Instance Segmentation i.e object Detection and Semantic Segmentation
-  
+  ..* Instance Segmentation i.e object Detection and Semantic Segmentation  
   ..* uses Faster Region Convolution Neural Network (FCNN) and Fully Connected Network (FCN) 
 
 ###### Real Time (Video) tagging with Mask-RCNN 
